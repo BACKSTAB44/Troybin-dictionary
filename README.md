@@ -100,8 +100,8 @@ entries: map[hash,embed] = {
 
 There are some useful tools you can use to help you writing the code:
 
-- **Troygrade** - Currently the most updated and effective troybin converter, by Leischii (it still has some bugs).
-- **Troybin converter** - A forgotten project of moonshadow565, a troybin converter. (It is not 100% effective, however it is still useful to write a big part of the code.)
+- **[Troygrade](https://leischii.github.io)** - Currently the most updated and effective troybin converter, by Leischii (it still has some bugs).
+- **[Troybin converter](https://www.dropbox.com/scl/fi/c6kv999lixzfrf7a4lmx9/TroybinConverter.rar?rlkey=q5mi3jvu6ugcxel51qgwbjsra&dl=0)** - A forgotten project of moonshadow565, a troybin converter. (It is not 100% effective, however it is still useful to write a big part of the code.)
 
 ---
 
